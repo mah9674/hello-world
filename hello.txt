@@ -1,4 +1,4 @@
-Hello Artifactory and Sonar
+Hello Artifactory and Mahasweta
 added webhook
 docker image
 removed
